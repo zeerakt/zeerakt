@@ -1,5 +1,5 @@
-### Hi there 👋
-### I'm a Unity Game Developer :metal:
+# Hi there 👋
+### I'm a Unity Game Developer :octocat:
 [![Zeerak Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeerakt)](https://github.com/anuraghazra/github-readme-stats)]
 
 <!--
