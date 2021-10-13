@@ -12,7 +12,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/zeerakt
-[2]: https://www.linkedin.com/in/zeerak-tahir/
+[2]: https://www.linkedin.com/in/zeerak-tahir
 
 [![Zeerak Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeerakt)](https://github.com/anuraghazra/github-readme-stats)]
 
