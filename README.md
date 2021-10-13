@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm a Unity Game Developer :metal:
-[![Zeerak Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeerakt)](https://github.com/anuraghazra/github-readme-stats)
+[![Zeerak Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeerakt)](https://github.com/anuraghazra/github-readme-stats)]
 
 <!--
 **zeerakt/zeerakt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
