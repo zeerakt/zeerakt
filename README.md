@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm a Unity Game Developer :octocat:
+### I'm a Unity | .NET | Backend Skill :octocat:
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
